@@ -8,7 +8,8 @@ namespace SumVsXOR
 {
     class Program
     {
-        //Problem find how many times 
+        //Problem : https://www.hackerrank.com/challenges/sum-vs-xor/problem?h_r=internal-search
+        //find how many times 
         //the condition n+x = n^x is satisfied 
         //for any given n and 0 <= x <= n            
         static void Main(string[] args)
